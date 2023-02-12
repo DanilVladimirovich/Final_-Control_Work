@@ -1,0 +1,15 @@
+C:\Users\oliga\Desktop\Програмирование обучалка\ДЗ\Repository\Control_Work\Choosing_Specialty\Program\bin\Debug\net7.0\Program.exe
+C:\Users\oliga\Desktop\Програмирование обучалка\ДЗ\Repository\Control_Work\Choosing_Specialty\Program\bin\Debug\net7.0\Program.deps.json
+C:\Users\oliga\Desktop\Програмирование обучалка\ДЗ\Repository\Control_Work\Choosing_Specialty\Program\bin\Debug\net7.0\Program.runtimeconfig.json
+C:\Users\oliga\Desktop\Програмирование обучалка\ДЗ\Repository\Control_Work\Choosing_Specialty\Program\bin\Debug\net7.0\Program.dll
+C:\Users\oliga\Desktop\Програмирование обучалка\ДЗ\Repository\Control_Work\Choosing_Specialty\Program\bin\Debug\net7.0\Program.pdb
+C:\Users\oliga\Desktop\Програмирование обучалка\ДЗ\Repository\Control_Work\Choosing_Specialty\Program\obj\Debug\net7.0\Program.csproj.AssemblyReference.cache
+C:\Users\oliga\Desktop\Програмирование обучалка\ДЗ\Repository\Control_Work\Choosing_Specialty\Program\obj\Debug\net7.0\Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oliga\Desktop\Програмирование обучалка\ДЗ\Repository\Control_Work\Choosing_Specialty\Program\obj\Debug\net7.0\Program.AssemblyInfoInputs.cache
+C:\Users\oliga\Desktop\Програмирование обучалка\ДЗ\Repository\Control_Work\Choosing_Specialty\Program\obj\Debug\net7.0\Program.AssemblyInfo.cs
+C:\Users\oliga\Desktop\Програмирование обучалка\ДЗ\Repository\Control_Work\Choosing_Specialty\Program\obj\Debug\net7.0\Program.csproj.CoreCompileInputs.cache
+C:\Users\oliga\Desktop\Програмирование обучалка\ДЗ\Repository\Control_Work\Choosing_Specialty\Program\obj\Debug\net7.0\Program.dll
+C:\Users\oliga\Desktop\Програмирование обучалка\ДЗ\Repository\Control_Work\Choosing_Specialty\Program\obj\Debug\net7.0\refint\Program.dll
+C:\Users\oliga\Desktop\Програмирование обучалка\ДЗ\Repository\Control_Work\Choosing_Specialty\Program\obj\Debug\net7.0\Program.pdb
+C:\Users\oliga\Desktop\Програмирование обучалка\ДЗ\Repository\Control_Work\Choosing_Specialty\Program\obj\Debug\net7.0\Program.genruntimeconfig.cache
+C:\Users\oliga\Desktop\Програмирование обучалка\ДЗ\Repository\Control_Work\Choosing_Specialty\Program\obj\Debug\net7.0\ref\Program.dll
