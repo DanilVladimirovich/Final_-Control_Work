@@ -28,6 +28,10 @@
 
 # Решение:
 
-# Блок-схема:
+## Блок-схема:
+
+![Блок-схкма](/Control_Work/Choosing_Specialty/Block_Diagram.jpg)
+
+
 
 
