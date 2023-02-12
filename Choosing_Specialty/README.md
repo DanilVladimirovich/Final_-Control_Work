@@ -32,6 +32,13 @@
 
 ![Блок-схкма](/Control_Work/Choosing_Specialty/Block_Diagram.jpg)
 
+## Программа находиться в папке "Program".
+
+Все изменения и ход выполнения работы, а так же код программы вы можете посмотреть на 
+https://github.com/DanilVladimirovich/Final_-Control_Work.git
+
+
+
 
 
 
